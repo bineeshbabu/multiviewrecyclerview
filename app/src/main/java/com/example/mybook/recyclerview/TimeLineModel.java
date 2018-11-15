@@ -1,4 +1,4 @@
-package com.example.mybook.mymediumproject;
+package com.example.mybook.recyclerview;
 
 public class TimeLineModel {
     public int getType() {
