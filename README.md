@@ -1,4 +1,6 @@
 # multiviewrecyclerview
 Multiview recyclerview - Timeline design
 
-![alt text](https://drive.google.com/open?id=1MrDVJeagXBP_LdpQ1dtEvQsRZqbtq4GR)
+![alt text](https://github.com/bineeshbabu/multiviewrecyclerview/blob/master/app/src/main/res/drawable/Screenshot_1.png)
+![alt text](https://github.com/bineeshbabu/multiviewrecyclerview/blob/master/app/src/main/res/drawable/Screenshot_2.png)
+![alt text](https://github.com/bineeshbabu/multiviewrecyclerview/blob/master/app/src/main/res/drawable/Screenshot_3.png)
